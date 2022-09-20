@@ -20,6 +20,7 @@ import { AngularMaterialModule } from './material.module';
     MatDialogModule,
     BrowserAnimationsModule,
     HttpClientModule,
+    AngularMaterialModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
